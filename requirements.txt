@@ -1,0 +1,13 @@
+dataframe-image
+fqdn
+isoduration
+jsonpointer
+jupyterlab
+pip-chill
+pip-review
+rfc3339-validator
+rfc3986-validator
+scikit-learn
+seaborn
+uri-template
+webcolors

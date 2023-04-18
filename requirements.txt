@@ -9,5 +9,6 @@ rfc3339-validator
 rfc3986-validator
 scikit-learn
 seaborn
+shap
 uri-template
 webcolors

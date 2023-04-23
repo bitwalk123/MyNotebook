@@ -1,5 +1,6 @@
 dataframe-image
 dtreeviz
+eli5
 fqdn
 iprogress
 ipywidgets

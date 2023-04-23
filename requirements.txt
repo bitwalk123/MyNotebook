@@ -1,4 +1,5 @@
 dataframe-image
+dtreeviz
 fqdn
 iprogress
 ipywidgets
@@ -7,6 +8,7 @@ jsonpointer
 jupyterlab
 pip-chill
 pip-review
+pydotplus
 seaborn
 shap
 uri-template

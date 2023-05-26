@@ -11,6 +11,5 @@ pip-chill
 pip-review
 pydotplus
 seaborn
-shap
 uri-template
 webcolors
